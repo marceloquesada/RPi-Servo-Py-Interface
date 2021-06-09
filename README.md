@@ -8,7 +8,7 @@ pigpio is required for this package, if you do not have it, simply run:
 Now, to install the package, simply run:
 <pre>$ pip install RPy-Servo </pre>
 
-##Descrition
+## Descrition
 
 A Python library to simplify the use of servos in RaspberryPi.
 
