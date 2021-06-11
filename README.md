@@ -26,7 +26,7 @@ To import the library use:
 
 The only class in the project currently is the <prep>Servo_motor()</prep> class, below there is an example of the Servo_motor() initialization:
 
-<pre>my_servo = Servo_motor([servo gpio port])</pre>
+<pre>my_servo = RpyServo.Servo_motor([servo gpio port])</pre>
 
 ##### set_angle:
 
