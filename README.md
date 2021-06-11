@@ -20,23 +20,23 @@ This is still a work in progress, so feel free to contribute!
 
 To import the library use:
 
-<prep>import RpyServo</prep>
+<pre>import RpyServo</pre>
 
 ### Servo_motor class:
 
 The only class in the project currently is the <prep>Servo_motor()</prep> class, below there is an example of the Servo_motor() initialization:
 
-<prep>my_servo = Servo_motor([servo gpio port])</prep>
+<pre>my_servo = Servo_motor([servo gpio port])</pre>
 
 ##### set_angle:
 
 This functions sets the angle of the servo, the angles go from 0 to 1000, being 0 the angle 0 and 1000 the angle 180. This is an example of how to use this function:
 
-<prep>my_servo.set_angle([Desired angle])</prep>
+<pre>my_servo.set_angle([Desired angle])</pre>
 
 ##### get_angle:
 
 This function reads the angle from the servo, being 1000 the angle 180 and 0 being 0. This is an example of how to use this function:
 
-<prep>angle = my_servo.get_angle()</prep>
+<pre>angle = my_servo.get_angle()</pre>
 
