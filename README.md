@@ -1,4 +1,4 @@
-# RPy-Servo
+# RPyServo
 
 ## Installation
 
@@ -6,7 +6,7 @@ pigpio is required for this package, if you do not have it, simply run:
 <pre>$ pip install pigpio </pre>
 
 Now, to install the package, simply run:
-<pre>$ pip install RPy-Servo </pre>
+<pre>$ pip install RPyServo </pre>
 
 ## Description
 
