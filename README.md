@@ -16,7 +16,7 @@ This inferface was created to simplify the pigpio interace, it is quite simple a
 
 This is still a work in progress, so feel free to contribute!
 
-## Use:
+## Use
 
 To import the library use:
 
